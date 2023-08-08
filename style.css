@@ -196,7 +196,7 @@ body{
 }
 
 .card .card-upper{
-    background-image: url(/image/card\ 1.jpeg);
+    background-image: url(image/card\ 1.jpeg);
     height: 70%;
     background-repeat: no-repeat;
     background-size: cover;
